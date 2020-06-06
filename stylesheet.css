@@ -1,0 +1,27 @@
+
+body {
+    background-image: url(img/aang.jpg
+    );
+
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: Papyrus;
+
+    text-align: center;
+    margin: auto;
+    width: 100%;
+
+
+    border-top:  10px cadetblue solid ;
+    border-bottom: 10px cadetblue solid;
+}
+
+#boi{
+
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
